@@ -17,6 +17,11 @@ $ ls -lahrt /home/username/.ssh
 Now your public key needs to be installed on the server machine.
 Contact us and send us your public key (filename.pub), not the private key, keep that one safe and dont lose it.
 
+Contact info: svretina@physics.auth.gr , stzaneti@physics.auth.gr
+email subject: deathstar
+
+or come by the IT Department which is located on the 4th floor of the "Glass" building.
+
 # Logging in
 
 If you have both your public and private key saved in the /home/username/.ssh/ you can use
